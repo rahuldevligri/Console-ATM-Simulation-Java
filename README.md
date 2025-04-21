@@ -70,6 +70,8 @@ java JavaATM
 ---
 
 ## 🧑‍💻 Author
+```
 Rahul Devligri
 📍 Hyderabad, India
 📧 rahuldevligri@gmail.com
+```
